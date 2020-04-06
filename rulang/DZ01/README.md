@@ -7,5 +7,5 @@
 
 ### Решение
 
-![](reshenie.jpeg)
+![](reshenie.jpg)
 
